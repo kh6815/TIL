@@ -27,7 +27,7 @@ body{
 .menu-item{
     float: left;
 /*    margin-right: 10px;*/
-    padding: 8px 10px; /* padding을 추가하면 내부 컨텐츠의 여백이 늘어남. top,botto, = 8px / right, left = 10px*/
+    padding: 8px 10px; /* padding을 추가하면 내부 컨텐츠의 여백이 늘어남. top,bottom = 8px / right, left = 10px*/
 }
 .clearfix::after{
     content: "";
